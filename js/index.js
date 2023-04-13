@@ -42,7 +42,3 @@ function animations() {
 window.onscroll = function () {
     animations();
 };
-
-// document.getElementById('lienMembres').onclick = function() {
-//     animations();
-// }
